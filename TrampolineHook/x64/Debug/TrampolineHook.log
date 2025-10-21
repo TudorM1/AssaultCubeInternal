@@ -1,0 +1,5 @@
+﻿  dllmain.cpp
+  mainHackLoop.cpp
+  setupHooksAndNops.cpp
+  Generating Code...
+  TrampolineHook.vcxproj -> D:\Code\TrampolineHook\TrampolineHook\x64\Debug\TrampolineHook.dll
